@@ -48,7 +48,7 @@ const Login = () => {
                   <UtensilsCrossed className="w-6 h-6 text-gray-200" />
                 </div>
                 <div>
-                  <h2 className="text-xl font-bold text-white">SavoryBites</h2>
+                  <h2 className="text-xl font-bold text-white">VishEats</h2>
                   <p className="text-[10px] text-gray-400 uppercase tracking-wider">Restaurant Management</p>
                 </div>
               </div>
