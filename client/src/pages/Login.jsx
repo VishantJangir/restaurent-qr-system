@@ -90,7 +90,7 @@ const Login = () => {
                     onChange={handleChange}
                     required
                     className="w-full pl-10 pr-4 py-2.5 bg-gray-900/50 border border-gray-800 rounded-lg text-gray-100 placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-gray-600 focus:border-gray-600 transition-all duration-200 text-sm"
-                    placeholder="riteshpatidar088@gmail.com"
+                    placeholder="vishantjangir99@gmail.com"
                   />
                 </div>
               </div>
